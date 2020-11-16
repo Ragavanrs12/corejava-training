@@ -24,6 +24,7 @@ public class pattern {
 			System.out.println("");
 		
 		}
+		obj.close();
 	}
 
 }
