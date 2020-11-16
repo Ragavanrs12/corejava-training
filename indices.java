@@ -19,6 +19,7 @@ public class indices {
 		int b=obj.nextInt();
 		for(int i=a;i<b;i++)
 			System.out.print(name[i]);
+		obj.close();
 		
 	}
 
