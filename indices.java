@@ -18,7 +18,7 @@ public class indices {
 		System.out.println("enter the two indices to be displayed");
 		int start=obj.nextInt();//starting indices
 		int end=obj.nextInt();//ending indices
-			System.out.print(name.substring(start,end));
+			System.out.println(name.substring(start,end));
 		obj.close();
 	}
 
