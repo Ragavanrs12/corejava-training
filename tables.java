@@ -7,6 +7,7 @@ System.out.println("enter the number for tables");
 int user=obj.nextInt();
 for(int i=1;i<=10;i++)
 System.out.println(user+"*"+i+"="+user*i);
+		obj.close();
 	}
 
 }
